@@ -21,5 +21,7 @@ Each model has own different result <br>
 
 # Result
 
+![alt text](./result.png)
+
 result png is one of the example that shows detection box <br>
 I put some images in 'input_images', you can try yourself
